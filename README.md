@@ -9,7 +9,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
 </h1>
 <!--  -->
-<h1 align="center">I'm Shubham Bhati</h1>
+<h1 align="center">I'm Rahul Gupta</h1>
 
 <h3 align = "center"><img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=21&center=true&vCenter=true&width=650&height=100&lines=A+Student+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%8E%93+and+a+Programming+Enthusiast+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+from+India"></h3>
 
@@ -23,8 +23,6 @@
 
 -  🙋🏻‍♂️ I am very passionate to learn **new things ❤️**.
 
--  👨🏽‍💻 Currently , learning and growing my skillset in deep learning , **competitive coding , data structures and algorithms**.
-
 - 👥 I’m looking forward to collaborate on open source projects.🌟
 
 - 💬 Ask me about anything, I am happy to help.  
@@ -32,15 +30,11 @@
 
 - 🔄 Routine : **Eat - Sleep - Code - Repeat.**
 
-- 📫 How to reach me **shubhambhati226@gmail.com**
-
-- ⚡ Coding fact: "There are over 700 different programming languages".
+- 📫 How to reach me **rkg1899@gmail.com**
 
 - 💪🏼 Fav Quote: "Great Developers never stop learning".
 
-- 👉 <a href="https://shubh2-0.github.io/">**Click Here**</a> to view my projects 💻.
-
-<!-- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge) -->
+- 👉 <a href="https://elaborate-heliotrope-ea133a.netlify.app/">**Click Here**</a> to view my projects 💻.
 
 
 
@@ -49,14 +43,7 @@
 
  
  <p align="left">
-  <a href="https://www.linkedin.com/in/shubham-bhati-787319213/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" width="40px" alt="linkedin" /></a>&emsp;
-  <a title="shubhambhati226@gmail.com" href="mailto:shubhambhati226@gmail.com" target="_blank"><img align="center"  src="https://cdn-icons-png.flaticon.com/128/888/888853.png"  width="40px"   alt="mail-me" /></a>&emsp;
-  <a href="https://wa.me/+916232133187" target="blank"><img align="center" src="https://media2.giphy.com/media/Q8I2fYA773h5wmQQcR/giphy.gif" width="40px"  alt="whatsapp-me" /></a>&emsp;
-<!--   <a href="https://www.hackerrank.com/shubhambhati226?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40px"  alt="whatsapp-me" /></a>&emsp; -->
-		
-	
-	
-
+  <a href="https://www.linkedin.com/in/rahul-gupta-3628921b3/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" width="40px" alt="linkedin" /></a>&emsp;
  </p>
 
 	
