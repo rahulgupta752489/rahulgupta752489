@@ -56,51 +56,41 @@
    
 <table align="center">
 <tr>
-<td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
-      <br>Java
-    </td>
-    <td align="center" width="96">
-        <img src="https://pngimg.com/uploads/mysql/mysql_PNG18.png" width="48" height="48" alt="Vuejs" />
-      <br>My SQl
-    </td>		
-    <td align="center" width="96">
-        <img src="https://1.bp.blogspot.com/-0dyq949GG7k/W8Zve_53ADI/AAAAAAAABlk/a0SZ78EvdJYyBjpOSra_7ZgmNMJIvVDJQCLcBGAs/s320/jdbc-with-MySQL-DataBase-New%2BSystem%2BTechnology.png" width="48" height="48" alt="Vuejs" />
-      <br>JDBC							
-</td>	
-<td align="center" width="96">
-        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="48" height="48" alt="Html5" />
-      <br>Spring Boot
-    </td>
-      <td align="center" width="96">
-        <img src="https://grok.lsu.edu/image/45934.png" width="48" height="48" alt="ubuntu" />
-    <br>IntelliJ IDEA
-    </td>
-</tr>
-<tr>
-    <td align="center" width="96">
+	<td align="center" width="96">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="javascript" />
       <br>JavaScript
     </td>
- <td align="center" width="96">
+	<td align="center" width="85">
+        <img src="https://img.icons8.com/?size=1x&id=wPohyHO_qO1a&format=png" />
+      <br>React
+    </td>
+	 <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="HTML" />
       <br>HTML
     </td>
-   <td align="center" width="96">
+	<td align="center" width="96">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/48px-CSS3_logo.svg.png" width="48" height="48" alt="CSS" />
       <br>CSS
-    </td>  
-    <td align="center" width="96">
+    </td>
+    	<td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="48" height="48" alt="Vuejs" />
       <br>Node JS
-    </td> 
+    </td>	
+</tr>
+<tr>  
+	<td align="center" width="96">
+        <img src="https://pngimg.com/uploads/mysql/mysql_PNG18.png" width="48" height="48" alt="Vuejs" />
+      <br>My SQl
+    </td>
+	<td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
+      <br>Java
+    </td>
    <td align="center"  width="96">
         <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="Jamstack" />
       <br>VS Code
     </td>
-</tr>
-<tr>
-    <td align="center" width="96">
+	<td align="center" width="96">
         <img src="https://img.icons8.com/fluent/48/4a90e2/github.png" width="48" height="48" alt="Css3" />
       <br>GitHub
     </td>
@@ -109,6 +99,8 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
       <br>Git
     </td>
+</tr>
+<tr>
       <td align="center" width="96">
     <img src="https://th.bing.com/th?id=ODLS.41693c73-eb43-452e-ac7c-05ee1420be2e&w=32&h=32&o=6&pid=13.1" width="48" height="48" alt="javascript" />
       <br>Netlify
@@ -117,32 +109,11 @@
          <img src="https://th.bing.com/th/id/OIP.5HGqUBZG3X_n2BuTtu2n5QAAAA?w=150&h=150&c=7&r=0&o=5&dpr=1.4&pid=1.7" width="48" height="48" alt="Replit" />
       <br>Replit
     </td>      
-    <td align="center" width="96">
-        <img src="https://logos-download.com/wp-content/uploads/2016/02/Ubuntu.png" width="48" height="48" alt="ubuntu" />
-      <br>Ubuntu
-      </td>
 </tr>
-  
-  <tr>
-    <td align="center" width="96">
-        <img src="https://th.bing.com/th/id/R.dc0311ba9c65f35ec32503ffb41a1413?rik=F4NaG9G35ZpXTg&riu=http%3a%2f%2fseeklogo.com%2fimages%2fJ%2fJava-logo-6BBEB11CBA-seeklogo.com.png&ehk=9W%2fXMNGwvYXf3ky96RvbQskT7thSjUVVQzLSxyqI0FY%3d&risl=&pid=ImgRaw&r=0" width="48" height="48" alt="Css3" />
-      <br>Java Swing
-    </td>
-	<td align="center" width="96">
-        <img src="https://learn.devsfix.com/wp-content/uploads/2022/10/javafx.png" width="48" height="48" alt="Css3" />
-      <br>JavaFX
-    </td>
-     </td>
-	<td align="center" width="96">
-        <img src="https://mayurisamanta.github.io/Assets/icons/maven.png" width="48" height="48" alt="Css3" />
-      <br>Maven
-    </td>
-</tr>
-  
 </table>
 
 
-
+<!-- 
 
 
 <br>
@@ -174,7 +145,7 @@
 
 
 
-
+ -->
 
 <div align="center" >
  
