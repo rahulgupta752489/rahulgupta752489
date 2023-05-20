@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulgupta752489&label=Profile%20views&color=0e75b6&style=flat" alt="rahulgupta752489" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://elaborate-heliotrope-ea133a.netlify.app/](https://elaborate-heliotrope-ea133a.netlify.app/)
-
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Java, MongoDB, MySQL**
 
 - 📫 How to reach me **rkg1899@gmail.com**
+
+- 👨‍💻 All of my projects are available at [https://elaborate-heliotrope-ea133a.netlify.app/](https://elaborate-heliotrope-ea133a.netlify.app/)
 
 - 📄Hava a look at my Resume [https://drive.google.com/file/d/1efEtBpOqzFDzr5rlAROVbmzIKeKOXjGV/view?usp=share_link](https://drive.google.com/file/d/1efEtBpOqzFDzr5rlAROVbmzIKeKOXjGV/view?usp=share_link)
 
